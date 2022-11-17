@@ -20,5 +20,8 @@
  0   3
     / \
    2   4
+  
+  
+  Bu proje www.patika.dev Veri Yapıları ve Algoritmalar kursunu bitirmek üzere yapılmıştır.
 
 
