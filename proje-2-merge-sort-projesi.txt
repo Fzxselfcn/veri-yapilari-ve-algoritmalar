@@ -33,3 +33,6 @@ aralarında sıralayarak birleştirir.
 
 
 Big-O gösterimi : O(n*logn)
+
+
+Bu proje www.patika.dev Veri Yapıları ve Algoritmalar kursunu bitirmek üzere yapılmıştır.
