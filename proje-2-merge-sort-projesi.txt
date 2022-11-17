@@ -1,0 +1,3 @@
+Cevaplar:
+
+[16,21,11,8,12,22] dizisinin merge sort algoritmasına göre aşamaları;
