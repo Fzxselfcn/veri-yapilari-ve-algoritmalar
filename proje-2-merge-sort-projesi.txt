@@ -3,7 +3,8 @@ Cevaplar:
 [16,21,11,8,12,22] dizisinin merge sort algoritmasına göre aşamaları;
 
 
-Merge Sort listeyi parçalara ayırır ve  sonra onu da kendi içerisinde en küçük parçalara kadar ayırır, ardından kendi aralarında sıralayarak birleştirir.
+Merge Sort listeyi parçalara ayırır ve  sonra onu da kendi içerisinde en küçük parçalara kadar ayırır, ardından kendi
+aralarında sıralayarak birleştirir.
 
                                        
 
