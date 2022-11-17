@@ -1,0 +1,23 @@
+Cevaplar:
+
+[22,27,16,2,18,6] dizisinin insertion sort algoritmasına göre aşamaları;
+
+1.Adım [2,27,16,22,18,6]   dizisinin en küçük elemanını aradı buldu ve en baştaki sayı ile yerini değişti.                                         
+2.Adım [2,6,16,22,18,27]   dizisinin 2.elemanından itibaren en küçük elemanını aradı buldu ve 2.eleman ile yer değişti.                                        
+3.Adım [2,6,16,22,18,27]   dizisinin 3.elemanından itibaren en küçük elemanını aradı buldu ve zaten olması gereken yerde olduğu için birşey yapmadı.
+4.Adım [2,6,16,18,22,27]   dizisinin 4.elemanından itibaren en küçük elemanını aradı buldu ve 4.eleman ile yer değişti.
+5.Adım [2,6,16,18,22,27]   dizisinin 5.elemanından itibaren en küçük elemanını aradı buldu ve zaten olması gereken yerde olduğu için birşey yapmadı.
+6.Adım [2,6,16,18,22,27]   dizisinin 6.elemanından itibaren en küçük elemanını aradı buldu ve zaten olması gereken yerde olduğu için birşey yapmadı.
+
+Big-O gösteririmi : O(n²)
+
+Time Complexity: Dizi sıralandıktan sonra 18 sayısı dizinin ortasında kalması nedeniyle Average case kapsamına girer.
+
+[7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımı;(Bu algoritma dizinin ilk elemanının en küçük eleman olduğunu varsayıyor. Ardından tek tek bu elemanı diğer elemanlarla karşılaştırıyor. )
+
+1.Adım  [2,3,5,8,7,9,4,15,6]  dizisinde 7'yi(ilk elemanı) en küçük değer oldugunu varsaydı ve en kücük elemanı(2'yi) bulmak icin dizenin diğer elemanları ile karşılaştırdı ve 2 ile 7'nin yerini değiştirdi.
+2.Adım  [2,3,5,8,7,9,4,15,6]  dizisinde ikinci elemanı(3) kalan diğer elemanlarla kıyasladı, en küçük olduğu için değişiklik olmadı.
+3.Adım  [2,3,4,8,7,9,5,15,6]  dizisinde üçüncü elemanı(5) kalan diğer elemanlarla kıyasladı, 4 en küçük olduğu için yerlerini değişti.
+4.Adım  [2,3,4,5,7,9,8,15,6]  dizisinde dördüncü elemanı(8) kalan diğer elemanlarla kıyasladı, 5 en küçük olduğu için yerlerini değişti.
+
+Bu proje www.patika.dev Veri Yapıları ve Algoritmalar kursunu bitirmek üzere yapılmıştır.
